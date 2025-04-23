@@ -1,2 +1,2 @@
 # design-pattern
-Java 12 design pattern
+Java design pattern
